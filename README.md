@@ -36,13 +36,13 @@
 
 Using <span style="color:deepskyblue; font-weight:bold;">React Native</span> with <span style="color:darkslateblue; font-weight:bold;">Typescript</span> to make a **marketplace application** GoMarketplace. Using routes, Async Storage e the Context API.
 
+<div align="center">
+<img alt="" src="https://i1.lensdump.com/i/jMLLrx.gif" height="500" />
+</div>
+
 [:brazil: URL to challenge description](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
 
-Challenge completed on 2020-07-xx.
-
-## Demo
-
-<img alt="" src="" />
+Challenge completed on 2020-07-06.
 
 ## :gear: Getting Started
 
@@ -52,12 +52,11 @@ yarn install
 
 # Run Fake Server
 yarn json-server server.json -p 3333
+adb reverse tcp:3333 tcp:3333
 
 # Run application
 yarn start
 ```
-
-> Access the URL in your browser http://localhost:3000
 
 ## Technology
 
@@ -68,7 +67,7 @@ yarn start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE]() for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/gbdsantos/bootcamp-gostack-challenge-08/blob/master/LICENSE) for more information.
 
 ## :man_astronaut: Author
 
